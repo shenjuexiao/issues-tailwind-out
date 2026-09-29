@@ -7,9 +7,29 @@
       <language>en-us</language>
       <managingEditor>address@yoursite.com (Tails Azimuth)</managingEditor>
       <webMaster>address@yoursite.com (Tails Azimuth)</webMaster>
-      <lastBuildDate>Sat, 05 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Tue, 29 Sep 2026 09:20:54 GMT</lastBuildDate>
       <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/2026-09-29-Test-2</guid>
+    <title>Test 2</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/2026-09-29-Test-2</link>
+    <description>Test 2</description>
+    <pubDate>Tue, 29 Sep 2026 09:20:54 GMT</pubDate>
+    <author>address@yoursite.com (Tails Azimuth)</author>
+    <category>Bug</category>
+  </item>
+
+  <item>
+    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/2026-09-29-Test-1</guid>
+    <title>Test 1</title>
+    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/2026-09-29-Test-1</link>
+    <description>Test 1</description>
+    <pubDate>Tue, 29 Sep 2026 09:05:10 GMT</pubDate>
+    <author>address@yoursite.com (Tails Azimuth)</author>
+    <category>Bug</category>
+  </item>
+
   <item>
     <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/release-of-tailwind-nextjs-starter-blog-v2.0</guid>
     <title>Release of Tailwind Nextjs Starter Blog v2.0</title>
